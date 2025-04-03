@@ -1,3 +1,5 @@
+***When you use the template, feel free to delete the README.md file and the license and replace them with you own :)***
+
 Have you ever spent three hours fixing a datapack because of a Minecraft Update? Well, I have!
 
 *internal screaming*
