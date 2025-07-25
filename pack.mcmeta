@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "A datapack template for 1.21.5",
-        "pack_format": 71
+        "description": "A datapack template for 1.21.7",
+        "pack_format": 81
     }
 }
