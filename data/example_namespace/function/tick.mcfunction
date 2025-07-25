@@ -1,1 +1,1 @@
-# The commands in this file constantly. However, it will only run one command per tick.
+# The commands in this file run once every tick.
