@@ -1,8 +1,9 @@
 {
   "pack": {
-    "description": "A datapack template for 1.21.9-1.21.10",
+    "description": "A datapack template for 1.21.9-1.21.11",
     "min_format": [88, 0],
     "max_format": [94, 1]
  }
 }
+
 
